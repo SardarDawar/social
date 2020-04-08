@@ -1,0 +1,39 @@
+2020-04-08 17:51:13,735 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-04-08 17:51:13,736 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\HP\AppData\Local\Programs\Python\Python37\lib\site-packages\instabot\bot\bot.py
+2020-04-08 17:51:13,737 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-04-08 17:51:14,515 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-04-08 17:51:15,263 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-04-08 17:51:16,166 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-04-08 17:51:16,966 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-04-08 17:51:21,165 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-04-08 17:51:21,169 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'ashiqa_saona'!
+2020-04-08 17:51:21,169 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-04-08 17:51:23,218 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-04-08 17:51:24,037 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-04-08 17:51:26,032 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-0cd0cb3adec42333&token_hash=&custom_device_id=android-0cd0cb3adec42333&fetch_reason=token_expired returned response: <Response [200]>
+2020-04-08 17:51:27,106 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-04-08 17:51:28,418 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-04-08 17:51:29,272 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2020-04-08 17:51:30,007 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2020-04-08 17:51:30,738 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-04-08 17:51:36,803 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-04-08 17:51:37,649 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2020-04-08 17:51:39,341 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2020-04-08 17:51:40,111 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2020-04-08 17:51:41,232 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2020-04-08 17:51:43,075 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2020-04-08 17:51:43,839 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2020-04-08 17:51:44,423 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2020-04-08 17:51:45,003 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2020-04-08 17:51:45,635 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2020-04-08 17:51:46,351 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2020-04-08 17:51:47,580 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/32514542849/info/ returned response: <Response [200]>
+2020-04-08 17:51:48,384 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-04-08 17:51:48,986 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2020-04-08 17:51:50,119 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2020-04-08 17:51:52,609 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=fb298f6c-2c3a-400a-be72-f7572d9e0c87&include_fixed_destinations=true returned response: <Response [200]>
+2020-04-08 17:51:53,422 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2020-04-08 17:51:54,441 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2020-04-08 17:51:54,446 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: G:\social-new2\social/config/ashiqa_saona.checkpoint
+2020-04-08 17:56:56,143 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: G:\social-new2\social/config/ashiqa_saona.checkpoint
+2020-04-08 17:56:56,147 - instabot version: 0.117.0 (bot) - INFO - Total requests: 31

@@ -397,7 +397,7 @@ def PostView(request):
             else:
                 obj = email_handle.objects.get(user=request.user)
             con = get_connection(host='smtp.gmail.com',port=587,username=obj.username,password=obj.getpass(),use_tls=True)
-            email = EmailMessage(mail_subject, message, to=[emails],from_email=obj.username, connection=con)
+            email = EmailMessage(mail_subject, message, to=emails,from_email=obj.username, connection=con)
             email.send()
             con.close()
             ######################################
